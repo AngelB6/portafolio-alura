@@ -108,7 +108,8 @@ body {
 }
 
 .presentacion__imagen {
-  width: 50%;
+  width: 30%;
+  height: auto;
 }
 
 .footer {
